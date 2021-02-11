@@ -2,7 +2,6 @@
 electronic-waste-management-system
 #############################
 An advanced electronic management system(e-waste) in php using codeigniter framework.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 *****************************************************
@@ -52,16 +51,13 @@ One is required to follow the instruction/or procedures as shown in the installa
 Running the E-Waste System
 #######################
 
-## Running the E-Waste System
-
 i)	Create a local folder named "**e-waste**" in htdocs directory found in Xampp Server. 	This is the default publishing folder i.e. C:\Xampp\htdocs for all systems installed using Xampp Server 3.2.2.
 
 ii)	Open command prompt(cmd) and navigate to the folder "**e-waste**" C:\Xampp\htdocs\e-waste.
 
 iii)	Clone the project by running the following bash command:
 
-``` bash
-# clone the repo
+``` 
 $ git clone https://github.com/TWILIGHT-CODERS/Essay-Writing-Website.git my-project
 ```
 
