@@ -58,7 +58,7 @@ ii)	Open command prompt(cmd) and navigate to the folder "**e-waste**" C:\Xampp\h
 iii)	Clone the project by running the following bash command:
 
 ``` 
-$ git clone https://github.com/TWILIGHT-CODERS/Essay-Writing-Website.git my-project
+$ git clone https://github.com/johniez254/e-waste.git
 ```
 
 iv) The following files will be available in your cloned project
